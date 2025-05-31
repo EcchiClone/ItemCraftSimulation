@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemDatas>
+    <!-- Tier 0 -->
+    <ItemData code="wood" tier="0" />
+    <ItemData code="stone" tier="0" />
+    <ItemData code="water" tier="0" />
+    <ItemData code="soil" tier="0" />
+    <ItemData code="sand" tier="0" />
+    <ItemData code="coal" tier="0" />
+    <ItemData code="iron_ore" tier="0" />
+    <ItemData code="fruit" tier="0" />
+    <ItemData code="leaf" tier="0" />
+    <ItemData code="bone" tier="0" />
+    <ItemData code="animal_hide" tier="0" />
+
+    <!-- Tier 1 -->
+    <ItemData code="board" tier="1" />
+    <ItemData code="mud" tier="1" />
+    <ItemData code="glass" tier="1" />
+    <ItemData code="charcoal" tier="1" />
+    <ItemData code="iron_ingot" tier="1" />
+    <ItemData code="fruit_juice" tier="1" />
+    <ItemData code="cloth" tier="1" />
+    <ItemData code="clay" tier="1" />
+    <ItemData code="stick" tier="1" />
+
+    <!-- Tier 2 -->
+    <ItemData code="brick" tier="2" />
+    <ItemData code="bottle" tier="2" />
+    <ItemData code="iron_plate" tier="2" />
+    <ItemData code="juice_bottle" tier="2" />
+    <ItemData code="torch" tier="2" />
+    <ItemData code="simple_tool" tier="2" />
+    <ItemData code="leather" tier="2" />
+    <ItemData code="rope" tier="2" />
+
+    <!-- Tier 3 -->
+    <ItemData code="workbench" tier="3" />
+    <ItemData code="storage_box" tier="3" />
+    <ItemData code="pickaxe" tier="3" />
+    <ItemData code="glass_bottle_set" tier="3" />
+    <ItemData code="torch_stand" tier="3" />
+    <ItemData code="clay_pot" tier="3" />
+    <ItemData code="leather_armor" tier="3" />
+    <ItemData code="distiller" tier="3" />
+</ItemDatas>

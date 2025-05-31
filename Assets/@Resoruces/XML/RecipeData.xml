@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecipeDatas>
+    <!-- Tier 1 -->
+    <RecipeData code="board" quantity="1">
+        <Input code="wood" quantity="5" />
+    </RecipeData>
+
+    <RecipeData code="mud" quantity="1">
+        <Input code="water" quantity="1" />
+        <Input code="soil" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="glass" quantity="1">
+        <Input code="sand" quantity="3" />
+        <Action code="fire" quantity="5" />
+    </RecipeData>
+
+    <RecipeData code="charcoal" quantity="1">
+        <Input code="wood" quantity="2" />
+        <Action code="fire" quantity="3" />
+    </RecipeData>
+
+    <RecipeData code="iron_ingot" quantity="1">
+        <Input code="iron_ore" quantity="1" />
+        <Input code="coal" quantity="1" />
+        <Action code="fire" quantity="4" />
+    </RecipeData>
+
+    <RecipeData code="fruit_juice" quantity="1">
+        <Input code="fruit" quantity="2" />
+        <Input code="water" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="cloth" quantity="1">
+        <Input code="leaf" quantity="2" />
+        <Input code="animal_hide" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="clay" quantity="1">
+        <Input code="soil" quantity="1" />
+        <Input code="water" quantity="1" />
+        <Input code="sand" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="stick" quantity="4">
+        <Input code="wood" quantity="1" />
+    </RecipeData>
+
+    <!-- Tier 2 -->
+    <RecipeData code="brick" quantity="1">
+        <Input code="mud" quantity="1" />
+        <Action code="fire" quantity="3" />
+    </RecipeData>
+
+    <RecipeData code="bottle" quantity="1">
+        <Input code="glass" quantity="2" />
+    </RecipeData>
+
+    <RecipeData code="iron_plate" quantity="1">
+        <Input code="iron_ingot" quantity="2" />
+        <Input code="board" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="juice_bottle" quantity="1">
+        <Input code="fruit_juice" quantity="1" />
+        <Input code="bottle" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="torch" quantity="1">
+        <Input code="stick" quantity="1" />
+        <Input code="charcoal" quantity="1" />
+        <Input code="cloth" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="simple_tool" quantity="1">
+        <Input code="stick" quantity="1" />
+        <Input code="iron_ingot" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="leather" quantity="1">
+        <Input code="animal_hide" quantity="1" />
+        <Input code="charcoal" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="rope" quantity="1">
+        <Input code="cloth" quantity="1" />
+        <Input code="leaf" quantity="2" />
+    </RecipeData>
+
+    <!-- Tier 3 -->
+    <RecipeData code="workbench" quantity="1">
+        <Input code="board" quantity="2" />
+        <Input code="iron_plate" quantity="1" />
+        <Input code="simple_tool" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="storage_box" quantity="1">
+        <Input code="board" quantity="3" />
+        <Input code="rope" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="pickaxe" quantity="1">
+        <Input code="simple_tool" quantity="1" />
+        <Input code="iron_ingot" quantity="2" />
+        <Input code="stick" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="glass_bottle_set" quantity="1">
+        <Input code="bottle" quantity="2" />
+        <Input code="rope" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="torch_stand" quantity="1">
+        <Input code="torch" quantity="1" />
+        <Input code="stick" quantity="1" />
+        <Input code="iron_plate" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="clay_pot" quantity="1">
+        <Input code="clay" quantity="2" />
+        <Action code="fire" quantity="5" />
+    </RecipeData>
+
+    <RecipeData code="leather_armor" quantity="1">
+        <Input code="leather" quantity="2" />
+        <Input code="rope" quantity="1" />
+        <Input code="iron_plate" quantity="1" />
+    </RecipeData>
+
+    <RecipeData code="distiller" quantity="1">
+        <Input code="iron_plate" quantity="2" />
+        <Input code="bottle" quantity="1" />
+        <Action code="fire" quantity="5" />
+    </RecipeData>
+</RecipeDatas>

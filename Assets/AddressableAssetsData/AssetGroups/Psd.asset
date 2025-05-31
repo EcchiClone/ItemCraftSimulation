@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Psd
+  m_EditorClassIdentifier: 
+  m_GroupName: Psd
+  m_GUID: 7fda691135077794d876ee1d5d8f43f8
+  m_SerializeEntries:
+  - m_GUID: 00e8bc9529857f4469d35ead34acd17a
+    m_Address: distiller.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18da0f64c4bdde349961c4f2385e06d1
+    m_Address: juice_bottle.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18ded56ff4f06c342bc5cfb635463aee
+    m_Address: fruit.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 205fcd482c5522648b8d5033e43a87cd
+    m_Address: leaf.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b75c67468cdf94fb75444cb75e7aea
+    m_Address: sand.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29138e5ffccda7c4ebaa44a6e389b47e
+    m_Address: clay.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2923f5695dc5cf940b1be7ac24693c20
+    m_Address: iron_ingot.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c8ce4c71aa811f49beb8ea4d7538351
+    m_Address: board.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2db296c7499bbe84aa8cc4f63fe3a467
+    m_Address: stone.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 342f1e59014fd914483f2414486c0d2a
+    m_Address: rope.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35280f0fdb7194f408021637b61e9951
+    m_Address: mud.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37a5857349432a24fbeb2849189ba397
+    m_Address: fruit_juice.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 493e402720de60b40b2d630dcff896db
+    m_Address: coal.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56622badbf1e23d4391fda9ac3419a67
+    m_Address: workbench.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 636a64d5b6809784fae02d1c94d27eea
+    m_Address: simple_tool.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c66afe87135f49438dfb3622c8a7c45
+    m_Address: leather.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f2b783737e5b14197a88e017828629
+    m_Address: stick.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79ac321388db08e4b8fdb178094bec68
+    m_Address: iron_ore.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e727876077868a4981c37b1c29cf7db
+    m_Address: water.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f55087f135614c4e8d797557439983c
+    m_Address: animal_hide.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 914550035a6086449a38080dac933b2c
+    m_Address: glass_bottle_set.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed418cc5b93a3141af5e41e0ba922dc
+    m_Address: brick.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a03c7c269b3fb76489447aac77a64518
+    m_Address: soil.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a350e1310c823fa41aa9e020c1cd212f
+    m_Address: clay_pot.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a43599dd6af39c743b91711581a7d14b
+    m_Address: storage_box.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be0780ce627b7f944b5d245db0a54f21
+    m_Address: wood.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bef58c96879fce0478b17a7dda8194c9
+    m_Address: torch.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c45f09a282bcd0c47af48d34756a700d
+    m_Address: leather_armor.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db6355c4d2e72f8449977a6279016115
+    m_Address: glass.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df13ba6fe1cb1e34ab5423c50069884c
+    m_Address: pickaxe.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6cb14debdc91d04c8ad40ecdb5ab424
+    m_Address: cloth.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7161beb69370324fa6ffa4e7d5dc0c6
+    m_Address: bottle.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e97ee53d2e8b5fa4da7c7f3fa7b322d3
+    m_Address: torch_stand.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f080ca3f0be98e8409ee8bcea1ff5008
+    m_Address: bone.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5933a0828f088e44a4c8a38f5f98c38
+    m_Address: charcoal.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd15c17d63ee22a4c8bbbc5112377dbd
+    m_Address: iron_plate.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    - Psds
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 41f413ed3f0807b4a9b53acb668af19f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4a70a0efe16553643aad88935e50fe09, type: 2}
+    - {fileID: 11400000, guid: 31191bf8bb2c8694d98e73cf1fa79a1d, type: 2}

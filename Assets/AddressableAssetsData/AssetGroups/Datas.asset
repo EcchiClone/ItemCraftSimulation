@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Datas
+  m_EditorClassIdentifier: 
+  m_GroupName: Datas
+  m_GUID: 6b9e8976d5ec22c4a9c06717437a1d8e
+  m_SerializeEntries:
+  - m_GUID: 0830d056ac5ceb24b9ccd497a04f857b
+    m_Address: RecipeData.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9a8e16b4bee5064e8cb4a54c9a58947
+    m_Address: ItemData.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 41f413ed3f0807b4a9b53acb668af19f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 28fa15f10c2322f489531cc37a408eea, type: 2}
+    - {fileID: 11400000, guid: 8da093ead9e8adc4f8dc1a8a724392d5, type: 2}
